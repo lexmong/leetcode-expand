@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "LeetCode result expander",
+  "name": "LeetCode expand",
   "version": "2.0",
   "description": "Expands LeetCode input, output and expected containers to show all values.",
   "content_scripts": [
